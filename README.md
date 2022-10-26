@@ -1,1 +1,1 @@
-Following (vulkan tutorial)[https://kylemayes.github.io/vulkanalia/].
+Following [vulkan tutorial](https://kylemayes.github.io/vulkanalia/).
